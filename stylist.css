@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.kotakluar{
+    background-color: white;
+}
+.kotak{
+    background-color: red;
+    width: 1372px;
+    height: 40px;
+}
+.kotakbesar{
+    background-image: url(images/Image\ Tugas.jpg);
+    background-color: black;
+    width: 1000px;
+    height: 250px;
+    border-radius: 50px;
+    margin: 30px;
+}
+.kotakpanjang{
+    background-color: red;
+    width: 1000px;
+    height: 30px;
+    border-radius: 10px;
+}
+.kotakbiasa{
+    background-image: url(images/Image\ Tugas.jpg);
+    /* background-color: red; */
+    width: 80px;
+    height: 80px;
+    margin: 30px;
+    margin-right: 950px;
+    border-radius: 10px;
+}
